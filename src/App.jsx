@@ -5,7 +5,7 @@ import { Send, Mic, Terminal, Activity, Cpu, Shield, Zap, Power } from 'lucide-r
 /** * JARVES v6.2.0 CORE CONFIGURATION
  * Replace the API_KEY below with the one you got from Google AI Studio.
  */
-const CONFIG = {
+const CONFIG = {AIzaSyC6k1J7xk-sOobLOZ_6SjxIxy5fABlZ7d4
   API_KEY: "YOUR_API_KEY_HERE", 
   VERSION: "6.2.0-STABLE",
   MODEL: "gemini-2.5-flash-preview-09-2025"
